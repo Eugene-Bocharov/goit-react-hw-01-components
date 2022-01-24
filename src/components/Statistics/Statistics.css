@@ -1,0 +1,34 @@
+.statistics{
+background-color: rgb(255, 255, 255);
+width: 400px;
+padding-top: 10px;
+padding-bottom: 10px;
+margin-left: 40px;
+border: solid 3px #000;
+border-radius: 15px;
+/* color: #fff; */
+}
+
+.ProfileTitle_stat{
+    margin-left: 20px;
+}
+
+.NoneTitle {
+  display: none;
+}
+
+.stat-list {
+  display: flex;
+  padding-left: 20px;
+}
+
+.item_data {
+  color: #fff;
+  background-color: rgb(68, 9, 136);
+  height: 45px;
+  padding-top: 2.5px;
+  width: 60px;
+  margin-right: 10px;
+  text-align: center;
+  border-radius: 5px;
+}
